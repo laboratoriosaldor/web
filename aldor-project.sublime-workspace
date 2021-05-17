@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 44562,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 42630,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/STORAGE/Proyectos/Aldor/sistemas/web/github/Aldor"
+	],
+	"file_history":
+	[
+		"/C/STORAGE/Proyectos/Aldor/sistemas/web/github/Aldor/index.html",
+		"/C/STORAGE/Proyectos/Aldor/sistemas/web/github/Aldor/aldor-project.sublime-project",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/index.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/vpi-project.sublime-project",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/donar/index.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/noticias/index.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/dev/componentes.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/.gitignore",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/jovenes/index.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/podcast/index.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/fundacion/index.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/dev/index.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/aliento/index.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/fundacion/inicio.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/dev/blog.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/dev/inicio.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/noticias/inicio.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/dev/noticias.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/assets/css/style.css",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/dev/youtube.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/dev/css/youtube.css",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/dev/js/youtube.js",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/dev/predicas.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/testimonios/inicio.php",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/escuela/inicio.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/dev/codigo.php",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/podcast/inicio.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/dev/inicio-componentes.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/aliento/inicio.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/podcast/POD.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/jovenes/inicio.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/donar/inicio.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/dev/_inner_page.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/html/_inner_page.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/donar.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/_plantilla.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/html/podcast.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/html/casas.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/html/fundacion.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/forms/contact.php",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/html/aliento.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/html/_plantilla.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/assets/css/style.rar",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/diezmos.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/html/diezmos.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/in.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/assets/html/navmenu.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/jovenes.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/plantilla.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/top..html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/inner-page.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/aliento.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/fundacion.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Web/github/ministeriovpi/web/predicas.html",
+		"/Z/Proyectos/Iglesia Vida Plena/desarrollo/Bootstrap/web beta/portfolio-details.html",
+		"/Z/Proyectos/Iglesia Vida Plena/desarrollo/Bootstrap/web beta/index.html",
+		"/Z/Proyectos/Iglesia Vida Plena/desarrollo/Bootstrap/bootstrap-5.0.0-beta1-dist/ministeriovpi/index.html",
+		"/Z/Proyectos/Iglesia Vida Plena/desarrollo/Bootstrap/bootstrap-5.0.0-beta1-dist/ministeriovpi/css/vpi.css",
+		"/Z/Proyectos/Iglesia Vida Plena/desarrollo/Bootstrap/bootstrap-5.0.0-beta1-dist/ministeriovpi/README.md",
+		"/Z/Proyectos/Iglesia Vida Plena/desarrollo/Bootstrap/bootstrap-5.0.0-beta1-dist/ministeriovpi/index2.html",
+		"/Z/Proyectos/Iglesia Vida Plena/desarrollo/Bootstrap/bootstrap-5.0.0-beta1-dist/ministeriovpi/notas.txt",
+		"/Z/Proyectos/Iglesia Vida Plena/desarrollo/Bootstrap/bootstrap-5.0.0-beta1-dist/ministeriovpi/css/bootstrap-utilities.css",
+		"/Z/Proyectos/Iglesia Vida Plena/desarrollo/Bootstrap/bootstrap-5.0.0-beta1-dist/ministeriovpi/css/vpi",
+		"/C/STORAGE/Proyectos/Aldor/desarrollo/web/bootstrap-4.5.2-dist/index.html",
+		"/Z/Proyectos/Iglesia Vida Plena/desarrollo/Bootstrap/bootstrap-5.0.0-beta1-dist/index.html",
+		"/C/STORAGE/Proyectos/Iglesia Vida Plena/desarrollo/Bootstrap/bootstrap-5.0.0-beta1-dist/index.html",
+		"/C/Users/gamar/Desktop/webvpi/index.html",
+		"/C/STORAGE/Proyectos/Aldor/desarrollo/bootstrap-4.5.2-dist/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"call",
+			"welcome",
+			"we",
+			"Welcome",
+			"img/gallery-",
+			"assets/img/gallery/gallery-",
+			"inicio.html",
+			"owl",
+			"owl-carousel portfolio-details-carousel",
+			"assets/img/portfolio/portfolio",
+			"../../testimonios/img",
+			"testim",
+			"icon-box",
+			"fundación",
+			"..",
+			"donar/img/",
+			"src=\"img/donar/transferencia",
+			"src=\"../assets/img/donar/transferencia",
+			"assets/",
+			"assets/img/diezmos/",
+			"Diezmos",
+			"href=\"html/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"img/gallery/gallery-",
+			"img/gallery-",
+			"../assets/img/portfolio/portfolio",
+			"testimonios/img",
+			"img/",
+			"src=\"donar/img/transferencia",
+			"src=\"img/donar/transferencia",
+			"../assets/",
+			"assets/img/donar/",
+			"href=\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38483,
+								38483
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3404.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18957,
+								18957
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aldor-project.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\STORAGE\\Proyectos\\Aldor\\sistemas\\web\\github\\Aldor\\aldor-project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
