@@ -1,0 +1,13 @@
+PRODUCTO		FOTO			PRESENTACION
+-------------------	--------------------	---------------------
+AMOXIGEN COMBO		portfolio-01-01	
+AMOXIGEN 100		portfolio-01-02		100 CM3
+AMOXIGEN 250		portfolio-01-03		100 CM3
+BABECIDE COMBO		portfolio-02-01		250 CM3
+BABECIDE 100		portfolio-02-02		100 CM3
+BABECIDE 250		portfolio-02-03		100 CM3
+COLI-JET COMBO		portfolio-03-01		250 CM3
+COLI-JET 200		portfolio-03-02		200 CM3
+COLI-JET 1LT 		portfolio-03-03		1 LT
+
+
