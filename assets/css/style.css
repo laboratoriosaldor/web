@@ -467,8 +467,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  /* background: rgba(6, 101, 183, 0.9); */
-  background: rgba(0, 52, 98, 0.9);
+  background: rgba(6, 101, 183, 0.9);
+  /* background: rgba(0, 52, 98, 0.9); azul aldor muy oscuro*/
   position: absolute;
   bottom: 0;
   top: 0;
@@ -725,7 +725,8 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients .swiper-slide img {
-  opacity: 0.5;
+  /* opacity: 0.5; */
+  opacity: 1;
   transition: 0.3s;
 }
 
@@ -1047,8 +1048,9 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  /* background: linear-gradient(rgba(5, 74, 133, 0.8), rgba(5, 74, 133, 0.9)), url("../img/cta-bg.jpg") fixed center center; */
-  background: linear-gradient(rgba(0, 52, 98, 0.8), rgba(0, 52, 98, 0.9)), url("../img/cta-bg.jpg") fixed center center;
+  /* background: linear-gradient(rgba(5, 74, 133, 0.8), rgba(5, 74, 133, 0.9)), url("../img/cta-bg.jpg") fixed center center;  */
+  /* background: linear-gradient(rgba(0, 52, 98, 0.8), rgba(0, 52, 98, 0.9)), url("../img/cta-bg.jpg") fixed center center; */
+  background: linear-gradient(rgba(6, 101, 183, 0.8), rgba(6, 101, 183, 0.9)), url("../img/cta-bg.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
